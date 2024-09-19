@@ -1,0 +1,8 @@
+User-agent:
+*
+
+User-agent: Yandex
+
+
+host: bittorrent-app.github.io
+Sitemap: https://bittorrent-app.github.io/sitemap.xml
