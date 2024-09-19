@@ -1,8 +1,21 @@
-User-agent:
-*
+User-agent: *
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
 
 User-agent: Yandex
-
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+Disallow: /file
 
 host: bittorrent-app.github.io
+
 Sitemap: https://bittorrent-app.github.io/sitemap.xml
+
